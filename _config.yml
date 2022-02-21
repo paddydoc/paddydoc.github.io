@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+name: Paddy Inspector Dataset 
+title: Paddy Inspector Dataset
+description: A visual and infrared image dataset of paddy leaves to evaluate automated disease/pest identification techniques. 
+github:
+  is_project_page: false
