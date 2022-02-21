@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Paddy Inspector Dataset
 
-You can use the [editor on GitHub](https://github.com/paddydoc/paddydoc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Diseases and pests severely affect paddy farming and lead to as much as 70% loss in the total yield. Expert supervision is usually required to mitigate these diseases. With the limited availability of crop protection experts, manual disease identification is a tedious task. Thus, to add a solution to this problem, it is necessary to automate the disease identification process and provide easily accessible decision support tools to enable effective crop protection measures. However, the lack of public datasets with detailed disease information limits the practical implementation of accurate disease detection systems leveraging advanced image processing techniques. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**PaddyInspector** a visual and infrared image dataset collected from many paddy fields in Tamilnadu, India. This dataset contains over 25,000 paddy leaf images across 14 disease classes collected using visible and infrared cameras together. PaddyInspector is the first dataset with many paddy diseases from India and worldwide to the best of our knowledge. The dataset also contains additional metadata about each sample, such as paddy type and age, and the disease labels that were manually annotated with the help of experts. These uniques features make it perfect for developing and evaluating automated disease identification techniques such as deep learning.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/paddydoc/paddydoc.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Stay tuned for more updates...
