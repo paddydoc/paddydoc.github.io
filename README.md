@@ -24,4 +24,4 @@ Diseases and pests severely affect paddy farming and lead to as much as 70% loss
 |Rice Yellow Stem Borer | 811|
 |Tungro | 2085|
 |Healthy Leaves | 2,435|
-|**Total** | **28,365**|
+|**Total** | **18,365**|
