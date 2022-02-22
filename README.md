@@ -34,5 +34,5 @@ Diseases and pests severely affect paddy farming and lead to as much as 70% loss
 |Healthy Leaves | 2,435|
 |**Total** | **18,365**|
 
-### ###  List of paddy pests and their count
+###  List of paddy pests and their count
 
