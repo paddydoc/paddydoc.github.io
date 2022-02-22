@@ -4,12 +4,12 @@ Diseases and pests severely affect paddy farming and lead to as much as 70% loss
 
 **PaddyInspector** is a visual and infrared image dataset collected from many paddy fields in Tamilnadu, India. This dataset contains over 18,000 paddy leaf images across 14 disease classes collected using visible and infrared cameras together. PaddyInspector is the first dataset with many paddy diseases from India. It also contains additional metadata, such as paddy type and age, in addition to the disease labels that were manually annotated with the help of experts. These uniques features make it perfect for benchmarking and evaluating automated disease identification techniques.
 
-## Paddy Diseases
+### Paddy Diseases Images 
 ![RGB Diseases](rgb_diseases.png)
 
 ![IR Diseasaes](ir_diseases.png)
 
-## Paddy Pests
+### Paddy Pests Images
 ![RGB Pests](RGBpests.png)
 
 ![IR Pests](irpests.png)
