@@ -14,6 +14,8 @@ Diseases and pests severely affect paddy farming and lead to as much as 70% loss
 
 ![IR Pests](irpests.png)
 
+###  List of paddy diseases and their count
+
 |Disease name | No. of images |
 | :--- | ---: |
 |Bacterial Leaf Blight |  881 |
@@ -31,3 +33,6 @@ Diseases and pests severely affect paddy farming and lead to as much as 70% loss
 |Tungro | 2085|
 |Healthy Leaves | 2,435|
 |**Total** | **18,365**|
+
+### ###  List of paddy pests and their count
+
