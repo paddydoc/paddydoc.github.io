@@ -36,3 +36,26 @@ Diseases and pests severely affect paddy farming and lead to as much as 70% loss
 
 ###  List of paddy pests and their count
 
+|Pests name | No. of images |
+| :--- | ---: |
+|Argiope Spider |  89 |
+|Brown Marmorated Stink Bug | 494  |
+|Brown Planthopper | 251 |
+|Damselfly  |  568 |
+|Green Grasshopper | 627 |
+|Lady Bug | 363 |
+|Long Jawed Orb Weaver | 292 |
+|Leptcorisa Acuta | 530 |
+|Rice Black Bug | 342 |
+|Rice Brown Planthopper| 27 |
+|Rice Grasshopper | 340 |
+|Rice Green Stink Bug| 268 |
+|Rice Shield Bug Trick | 90 |
+|Rice Skipper | 414|
+|Rice Stem Borer Larvea | 22 |
+|Rice Stink Bug| 167 |
+|Rice White Stem Borer| 100 
+|Rice Yellow Stem Borer| 565 |
+|Sogatella Furcifera| 83 |
+|**Total** | **5592**|
+
