@@ -59,3 +59,13 @@ Diseases and pests severely affect paddy farming and lead to as much as 70% loss
 |Sogatella Furcifera| 83 |
 |**Total** | **5592**|
 
+###Authors 
+
+Petchiammal A, 
+
+Briskline Kiruba S,
+
+Prof. Dr. D. Murugan,
+
+Dr. Pandarasmy Arjunan
+
