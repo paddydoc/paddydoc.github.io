@@ -78,7 +78,7 @@ Diseases and pests severely affect paddy farming and lead to as much as 70% loss
 |Rice White Stem Borer| 100 
 |Rice Yellow Stem Borer| 565 |
 |Sogatella Furcifera| 83 |
-|**Total** | **5562**|
+|**Total** | **5,562**|
 
 ### Project Members: 
 
