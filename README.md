@@ -35,7 +35,9 @@ Diseases and pests severely affect paddy farming and lead to as much as 70% loss
 |**Total** | **18,365**|
 
 ### Final Dataset
+
 ###  List of paddy diseases and their count
+
 |Disease name | No. of images |
 | :--- | ---: |
 |Bacterial Leaf Blight |  648 |
