@@ -8,9 +8,6 @@ Diseases and pests severely affect paddy farming and lead to as much as 70% loss
 
 ![Data collection Process](Process_Datacollection.png)
 
-![image](https://user-images.githubusercontent.com/100130996/155690347-f9e21386-2273-452a-b852-6f489f2df849.png)
-
-
 ### Paddy Diseases Images  
 ![RGB Diseases](rgb_diseases.png)
 
@@ -20,28 +17,6 @@ Diseases and pests severely affect paddy farming and lead to as much as 70% loss
 ![RGB Pests](RGBpests.png)
 
 ![IR Pests](irpests.png)
-
-###  List of paddy diseases and their count
-
-|Disease name | No. of images |
-| :--- | ---: |
-|Bacterial Leaf Blight |  881 |
-|Bacterial Leaf Streak | 557 |
-|Bacterial Panicle Blight |  382|
-|Blast | 2533  |
-|Brownspot | 1,244 |
-|Hispa | 2615|
-|Leaf Roller | 1260|
-|Mildew on Rice Leaf | 648|
-|Rice Black Stem Borer | 522|
-|Rice Stem Borer Egg | 970|
-|Rice White Stem Borer | 1,422|
-|Rice Yellow Stem Borer | 811|
-|Tungro | 2085|
-|Healthy Leaves | 2,435|
-|**Total** | **18,365**|
-
-### Final Dataset
 
 ###  List of paddy diseases and their count
 
