@@ -8,6 +8,8 @@ Diseases and pests severely affect paddy farming and lead to as much as 70% loss
 
 ![Data collection Process](Process_Datacollection.png)
 
+![Data collection Process](Data_Collection.png)
+
 ### Paddy Diseases Images  
 ![RGB Diseases](rgb_diseases.png)
 
