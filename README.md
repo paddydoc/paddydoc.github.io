@@ -40,10 +40,10 @@ Diseases and pests severely affect paddy farming and lead to as much as 70% loss
 
 |Disease name | No. of images |
 | :--- | ---: |
-|Bacterial Leaf Blight |  648 |
+|Bacterial Leaf Blight | 648 |
 |Bacterial Leaf Streak | 505 |
-|Bacterial Panicle Blight |  450 |
-|Blast | 2,351  |
+|Bacterial Panicle Blight | 450 |
+|Blast | 2,351 |
 |Brownspot | 1,287 |
 |Hispa | 2,200|
 |Leaf Roller | 1,100|
