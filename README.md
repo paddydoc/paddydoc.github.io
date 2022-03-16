@@ -1,24 +1,18 @@
-## Welcome to the Paddy Inspector Dataset!
+## Welcome to the Paddy Doctor Dataset!
 
 Diseases and pests severely affect paddy farming and lead to as much as 70% loss in the total yield. Expert supervision is usually required to mitigate these diseases. With the limited availability of crop protection experts, manual disease identification is a tedious task. Thus, to add a solution to this problem, it is necessary to automate the disease identification process and provide easily accessible decision support tools to enable effective crop protection measures. However, the lack of public datasets with detailed disease information limits the practical implementation of automated disease detection systems leveraging advanced image processing and deep learning techniques.
 
-**PaddyInspector** is a visual and infrared image dataset collected from many paddy fields in Tamilnadu, India. This dataset contains over 18,000 paddy leaf images across 14 disease classes collected using visible and infrared cameras together. PaddyInspector is the first dataset with many paddy diseases from India. It also contains additional metadata, such as paddy type and age, in addition to the disease labels that were manually annotated with the help of experts. These uniques features make it perfect for benchmarking and evaluating automated disease identification techniques.
+**Paddy Doctor** is a visual and infrared image dataset collected from real paddy fields in Tamilnadu, India. 
+This dataset contains over 22,000 labelled paddy leaf images across 14 disease and 20 pest classes collected using visual and infrared cameras together. It also contains additional metadata, such as paddy type and age. These uniques features make this dataset suitable for benchmarking and evaluating automated disease identification techniques.
 
 ### Automated and Preventive Crop Disease Diagnosis System
 
 ![Data collection Process](Data_Collection.png)
 
-### Paddy Diseases Images  
+### Paddy disease images
 ![RGB Diseases](rgb_diseases.png)
 
 ![IR Diseasaes](ir_diseases.png)
-
-### Paddy Pests Images
-![RGB Pests](RGBpests.png)
-
-![IR Pests](irpests.png)
-
-###  List of paddy diseases and their count
 
 |Disease name | No. of images |
 | :--- | ---: |
@@ -38,7 +32,10 @@ Diseases and pests severely affect paddy farming and lead to as much as 70% loss
 |Healthy Leaves | 2,434|
 |**Total** | **17,324**|
 
-###  List of paddy pests and their count
+### Paddy pest images
+![RGB Pests](RGBpests.png)
+
+![IR Pests](irpests.png)
 
 |Pests name | No. of images |
 | :--- | ---: |
@@ -66,11 +63,10 @@ Diseases and pests severely affect paddy farming and lead to as much as 70% loss
 
 ### Project Members: 
 
-- Petchiammal A
+- **[Department of Computer Science and Engineering,  Manonmaniam Sundaranar University, Tirunelveli, India](https://www.msuniv.ac.in/Academic/Department/ComputerScience/Overview)**
+   - Petchiammal A (PhD Scholar) 
+   - Briskline Kiruba S (PhD Scholar)
+   - Dr. D. Murugan B.E., M.E., Ph.D. (Professor)
+- [Dr. Pandarasmy Arjunan](https://www.samy101.com/) (collaborator).
 
-- Briskline Kiruba S
-
-- Prof. Dr. D. Murugan
-
-- Dr. Pandarasmy Arjunan
-
+**This dataset will be released soon. Stay tuned...**
