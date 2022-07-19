@@ -9,9 +9,13 @@ Diseases and pests severely affect paddy farming and lead to as much as 70% loss
 ### Data Collection
 ![Data collection Overview](Datacollection_overview2.png)
 
+The data collection and annotation process of the \emph{Paddy Doctor} dataset. We collected RGB images of paddy leaves from real paddy fields in a village near the Tirunelveli district of Tamilnadu, India. We used the CAT S62 Pro smartphone that has inbuilt support for capturing both RGB and infrared images of the scene together. Our initial dataset contained more than 30,000 images, but we carefully examined each sample and excluded the noisy, out of focus, and redundant images. After cleaning, we had 16,225 images. Next, we annotated each leaf image with the help of an agricultural officer into one of the 12 disease categories and healthy leaves. 
 
-**Paddy Doctor** is a visual and infrared image dataset collected from real paddy fields in Tamilnadu, India. 
-This dataset contains over 22,000 labelled paddy leaf images across 12 disease and 20 pest classes collected using visual and infrared cameras together. It also contains additional metadata, such as paddy type and age. These uniques features make this dataset suitable for benchmarking and evaluating automated disease identification techniques.
+The annotated paddy diseases are Bacterial Leaf Blight (BLB), Bacterial Leaf Streak (BLS), Bacterial Panicle Blight (BPB), Black Stem Borer (BSB), Blast, Brown spot, Downy Mildew, Hispa, Leaf Roller, Tungro, White Stem Borer, Yellow Stem Borer, and Normal leaf.  Although the original images were 1080x1440 pixels, we transformed them into a low-resolution image of 480x640 pixels to facilitate the processing and development of models on desktop computers. Figure~\ref{fig:sample} shows the sample images of leaves having these 12 diseases. In addition to the RGB images, we also manually collected additional metadata for each leaf image, such as the age and variety of the paddy crops.
+
+
+<!-- **Paddy Doctor** is a visual and infrared image dataset collected from real paddy fields in Tamilnadu, India. 
+This dataset contains over 22,000 labelled paddy leaf images across 12 disease and 20 pest classes collected using visual and infrared cameras together. It also contains additional metadata, such as paddy type and age. These uniques features make this dataset suitable for benchmarking and evaluating automated disease identification techniques. -->
 
 ### Paddy disease images
 ![RGB Diseases](rgb_diseases.png)
