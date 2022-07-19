@@ -42,6 +42,16 @@ This dataset contains over 22,000 labelled paddy leaf images across 12 disease a
 |Healthy Leaves | 2,405|
 |**Total** | **16,225**|
 
+### Benchmarking of Deep Learning
+
+|Model Name | Accuracy (%) |
+| :--- | ---: |
+|DCNN| 87.97 |
+|MobileNet|93.83|
+|VGG16|93.66|
+|Xception|97.2|
+|Resnet34|97.7|
+
 ### Paddy pest images
 ![RGB Pests](RGBpests.png)
 
