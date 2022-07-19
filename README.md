@@ -17,6 +17,10 @@ The annotated paddy diseases are Bacterial Leaf Blight (BLB), Bacterial Leaf Str
 <!-- **Paddy Doctor** is a visual and infrared image dataset collected from real paddy fields in Tamilnadu, India. 
 This dataset contains over 22,000 labelled paddy leaf images across 12 disease and 20 pest classes collected using visual and infrared cameras together. It also contains additional metadata, such as paddy type and age. These uniques features make this dataset suitable for benchmarking and evaluating automated disease identification techniques. -->
 
+### Kaggle Competition
+A subset of the dataset can be used in the Kaggle competition
+https://www.kaggle.com/competitions/paddy-disease-classification 
+
 ### Paddy disease images
 
 #### RGB Images
