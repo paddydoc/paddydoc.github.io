@@ -9,7 +9,7 @@ Diseases and pests severely affect paddy farming and lead to as much as 70% loss
 ### Data Collection
 ![Data collection Overview](Datacollection_overview2.png)
 
-The data collection and annotation process of the \emph{Paddy Doctor} dataset. We collected RGB images of paddy leaves from real paddy fields in a village near the Tirunelveli district of Tamilnadu, India. We used the CAT S62 Pro smartphone that has inbuilt support for capturing both RGB and infrared images of the scene together. Our initial dataset contained more than 30,000 images, but we carefully examined each sample and excluded the noisy, out of focus, and redundant images. After cleaning, we had 16,225 images. Next, we annotated each leaf image with the help of an agricultural officer into one of the 12 disease categories and healthy leaves. 
+The data collection and annotation process of the \emph{Paddy Doctor} dataset. We collected visual and infrared images of paddy leaves from real paddy fields in a village near the Tirunelveli district of Tamilnadu, India. We used the CAT S62 Pro smartphone that has inbuilt support for capturing both RGB and infrared images of the scene together. Our initial dataset contained more than 30,000 images, but we carefully examined each sample and excluded the noisy, out of focus, and redundant images. After cleaning, we had 16,225 images. Next, we annotated each leaf image with the help of an agricultural officer into one of the 12 disease categories and healthy leaves. 
 
 The annotated paddy diseases are Bacterial Leaf Blight (BLB), Bacterial Leaf Streak (BLS), Bacterial Panicle Blight (BPB), Black Stem Borer (BSB), Blast, Brown spot, Downy Mildew, Hispa, Leaf Roller, Tungro, White Stem Borer, Yellow Stem Borer, and Normal leaf.  Although the original images were 1080x1440 pixels, we transformed them into a low-resolution image of 480x640 pixels to facilitate the processing and development of models on desktop computers. Figure~\ref{fig:sample} shows the sample images of leaves having these 12 diseases. In addition to the RGB images, we also manually collected additional metadata for each leaf image, such as the age and variety of the paddy crops.
 
@@ -24,21 +24,20 @@ This dataset contains over 22,000 labelled paddy leaf images across 12 disease a
 
 |Disease name | No. of images |
 | :--- | ---: |
-|Bacterial Leaf Blight | 648 |
-|Bacterial Leaf Streak | 505 |
-|Bacterial Panicle Blight | 450 |
+|Bacterial Leaf Blight(BLB) | 648 |
+|Bacterial Leaf Streak(BLS) | 505 |
+|Bacterial Panicle Blight(BPB) | 450 |
+|Black Stem Borer(BSB) | 506|
 |Blast | 2,351 |
-|Brownspot | 1,287 |
-|Hispa | 2,200|
-|Leaf Roller | 1,100|
-|Mildew on Rice Leaf | 964|
-|Rice Black Stem Borer | 506|
-|Rice Stem Borer Egg | 799|
-|Rice White Stem Borer | 1,283|
-|Rice Yellow Stem Borer | 809|
-|Tungro | 1988|
-|Healthy Leaves | 2,434|
-|**Total** | **17,324**|
+|Brownspot | 1,257 |
+| Downy Mildew | 868|
+|Hispa | 2,151|
+|Leaf Roller | 1,095|
+|Tungro | 1,951|
+|White Stem Borer | 1,273|
+|Yellow Stem Borer | 765|
+|Healthy Leaves | 2,405|
+|**Total** | **16,225**|
 
 ### Paddy pest images
 ![RGB Pests](RGBpests.png)
