@@ -18,9 +18,9 @@ The annotated paddy diseases are Bacterial Leaf Blight (BLB), Bacterial Leaf Str
 This dataset contains over 22,000 labelled paddy leaf images across 12 disease and 20 pest classes collected using visual and infrared cameras together. It also contains additional metadata, such as paddy type and age. These uniques features make this dataset suitable for benchmarking and evaluating automated disease identification techniques. -->
 
 ### Paddy disease images
-![RGB Diseases](RGB_disease_classes1.png)
+![RGB Diseases](RGB_disease_classes2.png)
 
-![IR Diseasaes](ir_diseases.png)
+![IR Diseasaes](IR_disease_claseses.png)
 
 |Disease name | No. of images |
 | :--- | ---: |
