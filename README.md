@@ -22,7 +22,7 @@ This dataset contains over 22,000 labelled paddy leaf images across 12 disease a
 #### RGB Images
 ![RGB Diseases](RGB_disease_classes2.png)
 
-#### IR Paddy 
+#### IR Images
 ![IR Diseasaes](IR_disease_classes.png)
 
 |Disease name | No. of images |
