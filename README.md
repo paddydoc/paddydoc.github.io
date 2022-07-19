@@ -19,7 +19,7 @@ This dataset contains over 22,000 labelled paddy leaf images across 12 disease a
 
 ### Kaggle Competition
 A subset of the dataset can be used in the Kaggle competition
-[https://www.kaggle.com/c/paddy-disease-classification/](https://www.kaggle.com/c/paddy-disease-classification/)
+**[https://www.kaggle.com/c/paddy-disease-classification/](https://www.kaggle.com/c/paddy-disease-classification/)**
 
 ### Paddy disease images
 
