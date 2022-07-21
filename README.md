@@ -2,12 +2,12 @@
 
 ### Automated and Preventive Crop Disease Diagnosis System
 
-![Data collection Process](Data_Collection.png)
+![Data collection Process](./assets/img/Data_Collection.png)
 
 Diseases and pests severely affect paddy farming and lead to as much as 70% loss in the total yield. Expert supervision is usually required to mitigate these diseases. With the limited availability of crop protection experts, manual disease identification is a tedious task. Thus, to add a solution to this problem, it is necessary to automate the disease identification process and provide easily accessible decision support tools to enable effective crop protection measures. However, the lack of public datasets with detailed disease information limits the practical implementation of automated disease detection systems leveraging advanced image processing and deep learning techniques.
 
 ### Data Collection
-![Data collection Overview](Datacollection_overview2.png)
+![Data collection Overview](./assets/img/Datacollection_overview2.png)
 
 The data collection and annotation process of the Paddy Doctor dataset. We collected visual and infrared images of paddy leaves from real paddy fields in a village near the Tirunelveli district of Tamilnadu, India. We used the CAT S62 Pro smartphone that has inbuilt support for capturing both RGB and infrared images of the scene together. Our initial dataset contained more than 30,000 images, but we carefully examined each sample and excluded the noisy, out of focus, and redundant images. After cleaning, we had 16,225 images. Next, we annotated each leaf image with the help of an agricultural officer into one of the 12 disease categories and healthy leaves. 
 
@@ -24,10 +24,10 @@ A subset of the dataset can be used in the Kaggle competition -
 ### Paddy disease images
 
 #### RGB Images
-![RGB Diseases](RGB_disease_classes2.png)
+![RGB Diseases](./assets/img/RGB_disease_classes2.png)
 
 #### IR Images
-![IR Diseasaes](IR_disease_classes.png)
+![IR Diseasaes](./assets/img/IR_disease_classes.png)
 
 |Disease name | No. of images |
 | :--- | ---: |
@@ -57,9 +57,9 @@ A subset of the dataset can be used in the Kaggle competition -
 |Resnet34|97.7|
 
 ### Paddy pest images
-![RGB Pests](RGBpests.png)
+![RGB Pests](./assets/img/RGBpests.png)
 
-![IR Pests](irpests.png)
+![IR Pests](./assets/img/irpests.png)
 
 |Pests name | No. of images |
 | :--- | ---: |
