@@ -3,6 +3,7 @@ title: Team
 subtitle: List of team members of the Paddy Doctor project
 layout: page
 show_sidebar: false
+hide_hero: true
 ---
 
 # Team members
