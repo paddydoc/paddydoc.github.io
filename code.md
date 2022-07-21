@@ -1,5 +1,5 @@
 ---
-title: Benchmarks
+title: Code and Benchmarks
 subtitle: Benchamrking of AI/ML algorithms on the Paddy Doctor datasets
 layout: page
 show_sidebar: false
