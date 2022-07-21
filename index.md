@@ -2,7 +2,8 @@
 layout: page
 title: Welcome to Paddy Doctor project
 subtitle: A visual and infrared image dataset of paddy diseases and pests.
-hero_height: is-large
+# hero_height: is-large
+hero_height: is-fullwidth
 hero_image: ./assets/img/paddy-field1.jpg
 callouts: home_callouts
 ---
