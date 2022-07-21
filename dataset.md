@@ -3,6 +3,7 @@ title: Paddy Doctor dataset
 subtitle: A visual and infrared image dataset of paddy diseases and pests.
 layout: page
 show_sidebar: false
+hide_hero: true
 ---
 
 ### Kaggle Competition
