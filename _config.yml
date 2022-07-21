@@ -1,6 +1,0 @@
-theme: jekyll-theme-cayman
-name: Paddy Doctor Dataset 
-title: Paddy Inspector Dataset
-description: A visual and infrared image dataset of paddy diseases and pests. 
-github:
-  is_project_page: false
