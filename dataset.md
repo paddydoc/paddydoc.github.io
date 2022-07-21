@@ -12,7 +12,7 @@ We collected visual and infrared images of paddy leaves from real paddy fields i
 
 The annotated paddy diseases are Bacterial Leaf Blight (BLB), Bacterial Leaf Streak (BLS), Bacterial Panicle Blight (BPB), Black Stem Borer (BSB), Blast, Brown spot, Downy Mildew, Hispa, Leaf Roller, Tungro, White Stem Borer, Yellow Stem Borer, and Normal leaf.  Although the original images were 1080x1440 pixels, we transformed them into a low-resolution image of 480x640 pixels to facilitate the processing and development of models on desktop computers. This  paddy dataset contains 12 disease and 20 pest classes collected using visual and infrared cameras together. In addition to the visual and infrared images, we also manually collected additional metadata for each leaf image, such as the age and variety of the paddy crops.
 
-<img src="./assets/img/Datacollection_overview2.png" width=50% height=50% />
+<img src="https://raw.githubusercontent.com/paddydoc/paddydoc.github.io/main/assets/img/Datacollection_overview2.png" width="50%" height="50%" />
 
 ### Sample disease images
 
