@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Welcome to Paddy Doctor project
-subtitle: A visual and infrared image dataset of paddy diseases and pests.
+title: Welcome to Paddy Doctor
+subtitle: A visual and infrared image based early disease diagnosis system for Paddy
 hero_height: is-fullheight
 # hero_height: is-fullwidth
 hero_image: ./assets/img/paddy-field4.jpg
