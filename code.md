@@ -47,7 +47,7 @@ bacterial_panicle_blight    1.00000   0.96667   0.98305        90
 
 #### Classification Report
  ```
-   precision    recall  f1-score   support
+                           precision    recall  f1-score   support
 
    bacterial_leaf_blight    0.95420   0.96154   0.95785       130
    bacterial_leaf_streak    0.94175   0.97000   0.95567       100
@@ -73,7 +73,7 @@ bacterial_panicle_blight    0.97727   0.95556   0.96629        90
 ### VGG16 Results
 #### Classification Report
 ```
-    precision    recall  f1-score   support
+                           precision    recall  f1-score   support
 
    bacterial_leaf_blight    0.85612   0.91538   0.88476       130
    bacterial_leaf_streak    0.93204   0.96000   0.94581       100
@@ -100,7 +100,7 @@ bacterial_panicle_blight    1.00000   0.86667   0.92857        90
 ### CNN Results
 #### Classification Report
 ```
-  precision    recall  f1-score   support
+                           precision    recall  f1-score   support
 
    bacterial_leaf_blight    0.84800   0.81538   0.83137       130
    bacterial_leaf_streak    0.84545   0.93000   0.88571       100
