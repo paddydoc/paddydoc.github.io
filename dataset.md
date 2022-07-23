@@ -4,7 +4,6 @@ subtitle: A visual and infrared image dataset of paddy diseases and pests.
 layout: page
 hero_image: ./assets/img/red-stripe.jpg
 show_sidebar: false
-hide_hero: false
 ---
 
 ### Data collection and annotation process
