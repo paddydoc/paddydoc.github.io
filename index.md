@@ -5,6 +5,7 @@ subtitle: A visual and infrared image based early disease diagnosis system for P
 hero_height: is-fullheight
 # hero_height: is-fullwidth
 hero_image: ./assets/img/paddy-field5.jpg
+hero_darken: true
 callouts: home_callouts
 ---
 
