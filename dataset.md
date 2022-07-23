@@ -2,7 +2,6 @@
 title: Paddy Doctor dataset
 subtitle: A visual and infrared image dataset of paddy diseases and pests.
 layout: page
-hero_image: ./assets/img/red-stripe.jpg
 show_sidebar: false
 ---
 
