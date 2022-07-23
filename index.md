@@ -4,7 +4,7 @@ title: Welcome to Paddy Doctor
 subtitle: A visual and infrared image based early disease diagnosis system for Paddy
 hero_height: is-fullheight
 # hero_height: is-fullwidth
-hero_image: ./assets/img/paddy-field4.jpg
+hero_image: ./assets/img/paddy-field5.jpg
 callouts: home_callouts
 ---
 
