@@ -6,13 +6,16 @@ show_sidebar: false
 hide_hero: true
 ---
 
-# Benchmarking of Deep Learning
+# Benchmarking of Deep Learning Models
 
-|Model | Precision | Recall | F1-score | Accuracy |
+## Diseases dataset
+
+|Model | Precision (%) | Recall (%) | F1-score (%) | Accuracy (%) |
 | :--- | ---: | ---: | ---: | ---: |
 | [Resnet34](https://github.com/paddydoc/paddy-docctor-dataset/blob/main/resnet34-with-fastai.ipynb)| 97.52 |  97.5 |  97.5 | 97.5  |  
 | [Xception](https://github.com/paddydoc/paddy-docctor-dataset/blob/main/xception.ipynb)|96.61 |  96.58 | 96.57 | 96.58 |  
 | [VGG16](https://github.com/paddydoc/paddy-docctor-dataset/blob/main/vgg16.ipynb)|  93.49  | 93.19  | 93.2 | 93.19  |
+| [MobileNet](https://github.com/paddydoc/paddy-docctor-dataset/blob/main/mobilenet-2.ipynb)| 92.63 | 92.42 | 92.39 | 92.42 |
 | [CNN](https://github.com/paddydoc/paddy-docctor-dataset/blob/main/cnn.ipynb)| 89.22 | 88.84 | 88.81 | 88.84 |  
 
 ### Resnet34 results
@@ -103,6 +106,36 @@ bacterial_panicle_blight    1.00000   0.86667   0.92857        90
 
 #### Confusion matrix
 ![cm VGG16](https://raw.githubusercontent.com/paddydoc/paddy-docctor-dataset/main/results/cm-VGG16.png)
+
+### MobileNet results
+
+#### Classification Report
+
+```
+                          precision    recall  f1-score   support
+
+   bacterial_leaf_blight    0.92437   0.84615   0.88353       130
+   bacterial_leaf_streak    0.97727   0.86000   0.91489       100
+bacterial_panicle_blight    1.00000   0.90000   0.94737        90
+        black_stem_borer    0.95789   0.90099   0.92857       101
+                   blast    0.91718   0.94255   0.92970       470
+              brown_spot    0.85926   0.91700   0.88719       253
+            downy_mildew    0.93373   0.89080   0.91176       174
+                   hispa    0.90000   0.91879   0.90930       431
+             leaf_roller    0.97753   0.79452   0.87657       219
+                  normal    0.94960   0.97921   0.96418       481
+                  tungro    0.88140   0.97179   0.92439       390
+        white_stem_borer    0.95984   0.94094   0.95030       254
+       yellow_stem_borer    0.94667   0.93421   0.94040       152
+
+                accuracy                        0.92419      3245
+               macro avg    0.93729   0.90746   0.92063      3245
+            weighted avg    0.92627   0.92419   0.92386      3245
+```
+
+#### Confusion matrix
+![MobileNet cm](https://raw.githubusercontent.com/paddydoc/paddy-docctor-dataset/main/results/cm-mobilenet.png)
+
 
 ### CNN Results
 
