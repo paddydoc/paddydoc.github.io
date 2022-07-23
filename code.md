@@ -3,22 +3,23 @@ title: Code and Benchmarks
 subtitle: Benchamrking of AI/ML algorithms on the Paddy Doctor datasets
 layout: page
 show_sidebar: false
+toc: true
 hide_hero: true
 ---
 
-# Benchmarking of Deep Learning Models
+## Benchmarking results
 
-## Diseases dataset
+#### Comparison of model performance on the disease dataset (16,225 samples)
 
 |Model | Precision (%) | Recall (%) | F1-score (%) | Accuracy (%) |
 | :--- | ---: | ---: | ---: | ---: |
-| [Resnet34](https://github.com/paddydoc/paddy-docctor-dataset/blob/main/resnet34-with-fastai.ipynb)| 97.52 |  97.5 |  97.5 | 97.5  |  
+| [Resnet34](https://github.com/paddydoc/paddy-docctor-dataset/blob/main/resnet34-with-fastai.ipynb)| 97.52 |  97.50 |  97.50 | 97.50  |  
 | [Xception](https://github.com/paddydoc/paddy-docctor-dataset/blob/main/xception.ipynb)|96.61 |  96.58 | 96.57 | 96.58 |  
 | [VGG16](https://github.com/paddydoc/paddy-docctor-dataset/blob/main/vgg16.ipynb)|  93.49  | 93.19  | 93.2 | 93.19  |
 | [MobileNet](https://github.com/paddydoc/paddy-docctor-dataset/blob/main/mobilenet-2.ipynb)| 92.63 | 92.42 | 92.39 | 92.42 |
 | [CNN](https://github.com/paddydoc/paddy-docctor-dataset/blob/main/cnn.ipynb)| 89.22 | 88.84 | 88.81 | 88.84 |  
 
-### Resnet34 results
+## Resnet34 results
 
 #### Classification Report
 
@@ -48,7 +49,7 @@ bacterial_panicle_blight    1.00000   0.96667   0.98305        90
 ![resnet34 cm](https://raw.githubusercontent.com/paddydoc/paddy-docctor-dataset/main/results/cm-restnet34.png)
            
 
-### Xception results
+## Xception results
 
 #### Classification Report
 
@@ -77,7 +78,7 @@ bacterial_panicle_blight    0.97727   0.95556   0.96629        90
 #### Confusion matrix
 ![xception cm](https://raw.githubusercontent.com/paddydoc/paddy-docctor-dataset/main/results/cm-xception.png)
 
-### VGG16 Results
+## VGG16 Results
 
 #### Classification Report
 
@@ -107,7 +108,7 @@ bacterial_panicle_blight    1.00000   0.86667   0.92857        90
 #### Confusion matrix
 ![cm VGG16](https://raw.githubusercontent.com/paddydoc/paddy-docctor-dataset/main/results/cm-VGG16.png)
 
-### MobileNet results
+## MobileNet results
 
 #### Classification Report
 
@@ -137,7 +138,7 @@ bacterial_panicle_blight    1.00000   0.90000   0.94737        90
 ![MobileNet cm](https://raw.githubusercontent.com/paddydoc/paddy-docctor-dataset/main/results/cm-mobilenet.png)
 
 
-### CNN Results
+## CNN Results
 
 #### Classification Report
 
