@@ -17,7 +17,9 @@ hide_hero: true
 | [CNN](https://github.com/paddydoc/paddy-docctor-dataset/blob/main/cnn.ipynb)| 89.22 | 88.84 | 88.81 | 88.84 |  
 
 ### Resnet34 results
+
 #### Classification Report
+
 ```
                           precision    recall  f1-score   support
 
@@ -39,6 +41,7 @@ bacterial_panicle_blight    1.00000   0.96667   0.98305        90
                macro avg    0.97623   0.97107   0.97344      3245
             weighted avg    0.97520   0.97504   0.97500      3245
 ```
+
 #### Confusion matrix
 ![resnet34 cm](https://raw.githubusercontent.com/paddydoc/paddy-docctor-dataset/main/results/cm-restnet34.png)
            
@@ -46,7 +49,8 @@ bacterial_panicle_blight    1.00000   0.96667   0.98305        90
 ### Xception results
 
 #### Classification Report
- ```
+
+```
                            precision    recall  f1-score   support
 
    bacterial_leaf_blight    0.95420   0.96154   0.95785       130
@@ -67,11 +71,14 @@ bacterial_panicle_blight    0.97727   0.95556   0.96629        90
                macro avg    0.96606   0.96147   0.96340      3245
             weighted avg    0.96613   0.96579   0.96571      3245
 ```
+
 #### Confusion matrix
 ![xception cm](https://raw.githubusercontent.com/paddydoc/paddy-docctor-dataset/main/results/cm-xception.png)
 
 ### VGG16 Results
+
 #### Classification Report
+
 ```
                            precision    recall  f1-score   support
 
@@ -94,11 +101,14 @@ bacterial_panicle_blight    1.00000   0.86667   0.92857        90
             weighted avg    0.93488   0.93190   0.93199      3245
 
 ```
+
 #### Confusion matrix
 ![cm VGG16](https://raw.githubusercontent.com/paddydoc/paddy-docctor-dataset/main/results/cm-VGG16.png)
 
 ### CNN Results
+
 #### Classification Report
+
 ```
                            precision    recall  f1-score   support
 
@@ -120,8 +130,6 @@ bacterial_panicle_blight    0.98630   0.80000   0.88344        90
                macro avg    0.89470   0.88199   0.88610      3245
             weighted avg    0.89219   0.88844   0.88812      3245
    ```
-   #### Confusion matrix
-   ![CNN cm](https://raw.githubusercontent.com/paddydoc/paddy-docctor-dataset/main/results/cm-cnn.png)
-
-
-
+   
+#### Confusion matrix
+![CNN cm](https://raw.githubusercontent.com/paddydoc/paddy-docctor-dataset/main/results/cm-cnn.png)
