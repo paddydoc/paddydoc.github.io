@@ -95,6 +95,7 @@ bacterial_panicle_blight    1.00000   0.86667   0.92857        90
 
 ```
 #### Confusion matrix
+![cm VGG16](https://raw.githubusercontent.com/paddydoc/paddy-docctor-dataset/main/results/cm-VGG16.png)
 
 
 
