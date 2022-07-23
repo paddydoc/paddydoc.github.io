@@ -45,7 +45,7 @@ bacterial_panicle_blight    1.00000   0.96667   0.98305        90
 
 ### Xception results
 
-### Classification Report
+#### Classification Report
  ```
  precision    recall  f1-score   support
 
