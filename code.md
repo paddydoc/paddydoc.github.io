@@ -97,7 +97,31 @@ bacterial_panicle_blight    1.00000   0.86667   0.92857        90
 #### Confusion matrix
 ![cm VGG16](https://raw.githubusercontent.com/paddydoc/paddy-docctor-dataset/main/results/cm-VGG16.png)
 
+### CNN Results
+#### Classification Report
+```
+  precision    recall  f1-score   support
 
+   bacterial_leaf_blight    0.84800   0.81538   0.83137       130
+   bacterial_leaf_streak    0.84545   0.93000   0.88571       100
+bacterial_panicle_blight    0.98630   0.80000   0.88344        90
+        black_stem_borer    0.90099   0.90099   0.90099       101
+                   blast    0.92601   0.87872   0.90175       470
+              brown_spot    0.92511   0.83004   0.87500       253
+            downy_mildew    0.94231   0.84483   0.89091       174
+                   hispa    0.90281   0.81903   0.85888       431
+             leaf_roller    0.78151   0.84932   0.81400       219
+                  normal    0.83158   0.98545   0.90200       481
+                  tungro    0.91601   0.89487   0.90532       390
+        white_stem_borer    0.90672   0.95669   0.93103       254
+       yellow_stem_borer    0.91824   0.96053   0.93891       152
+
+                accuracy                        0.88844      3245
+               macro avg    0.89470   0.88199   0.88610      3245
+            weighted avg    0.89219   0.88844   0.88812      3245
+   ```
+   #### Confusion matrix
+   ![CNN cm](https://raw.githubusercontent.com/paddydoc/paddy-docctor-dataset/main/results/cm-cnn.png)
 
 
 
