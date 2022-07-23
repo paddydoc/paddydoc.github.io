@@ -68,7 +68,7 @@ bacterial_panicle_blight    0.97727   0.95556   0.96629        90
             weighted avg    0.96613   0.96579   0.96571      3245
       ```
 #### Confusion matrix
-![xception cm](https://raw.githubusercontent.com/paddydoc/paddy-docctor-dataset/main/results/cm-xception.png)
+![xception cm][https://raw.githubusercontent.com/paddydoc/paddy-docctor-dataset/main/results/cm-xception.png](https://raw.githubusercontent.com/paddydoc/paddy-docctor-dataset/main/results/cm-xception.png)
 
 
 
