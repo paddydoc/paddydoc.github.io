@@ -17,7 +17,7 @@ hide_hero: true
 | [CNN](https://github.com/paddydoc/paddy-docctor-dataset/blob/main/cnn.ipynb)| 89.22 | 88.84 | 88.81 | 88.84 |  
 
 ### Resnet34 results
-#### Classification report
+#### Classification Report
 ```
                           precision    recall  f1-score   support
 
@@ -44,6 +44,8 @@ bacterial_panicle_blight    1.00000   0.96667   0.98305        90
            
 
 ### Xception results
+
+### Classification Report
  ```
  precision    recall  f1-score   support
 
@@ -65,3 +67,4 @@ bacterial_panicle_blight    1.00000   0.96667   0.98305        90
                macro avg    0.97623   0.97107   0.97344      3245
             weighted avg    0.97520   0.97504   0.97500      3245
       ```
+#### Confusion matrix
