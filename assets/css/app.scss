@@ -7,3 +7,14 @@ $hero-colors: ("primary":
 .has-text-weight-heavy {
     font-weight: 800 !important;
 }
+
+// Import Main CSS file from theme
+@import "main";
+
+.hero {
+    .title,
+    .subtitle {
+        text-shadow: 1px 1px rgba($primary, 0.5);
+        animation: appear 1s;
+    }
+}
