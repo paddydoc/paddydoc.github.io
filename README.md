@@ -57,7 +57,7 @@ A subset of the dataset can be used in the Kaggle competition -
 |Resnet34|97.7|
 
 ### Paddy pest images
-![RGB Pests](./assets/img/RGBpests.png)
+![RGB Pests](./assets/img/Pest_RGB.png)
 
 ![IR Pests](./assets/img/irpests.png)
 
