@@ -21,4 +21,8 @@ Diseases and pests severely affect paddy farming and lead to as much as 70% loss
 A subset of this dataset (10,407 annotated images) has been used in the Kaggle competition - 
 **[https://www.kaggle.com/c/paddy-disease-classification/](https://www.kaggle.com/c/paddy-disease-classification/)**
 
+### IEEE DataPort 
+The Paddy Doctor dataset submitted in an IEEE DataPort - 
+**[https://ieee-dataport.org/documents/paddy-doctor-visual-image-dataset-automated-paddy-disease-classification-and-benchmarking](https://ieee-dataport.org/documents/paddy-doctor-visual-image-dataset-automated-paddy-disease-classification-and-benchmarking)**
+
 Note: The final and complete dataset will be released after compeltition of the competition (by end of Auguest 2022).
