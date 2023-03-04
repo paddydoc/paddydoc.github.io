@@ -19,7 +19,7 @@ The annotated paddy diseases are Bacterial Leaf Blight (BLB), Bacterial Leaf Str
 
 |RGB images| IR images|
 | :---: | :---: |
-|![RGB Diseases](./assets/img/RGB_disease_classes2.png)|![IR Diseasaes](./assets/img/IR_disease_classes.png)|
+|![RGB Diseases](./assets/img/RGB_disease_classes2.png)|![IR Diseasaes](./assets/img/Pest_RGB_1.png)|
 
 
 ### Sample pest images
