@@ -21,7 +21,7 @@ This dataset contains over 22,000 labelled paddy leaf images across 12 disease a
 A subset of the dataset can be used in the Kaggle competition - 
 **[https://www.kaggle.com/c/paddy-disease-classification/](https://www.kaggle.com/c/paddy-disease-classification/)**
 ### IEEE DataPort 
-The Paddy Doctor dataset submitted in an IEEE DataPort -
+The Paddy Doctor dataset submitted in an IEEE DataPort - 
 **[https://ieee-dataport.org/documents/paddy-doctor-visual-image-dataset-automated-paddy-disease-classification-and-benchmarking](https://ieee-dataport.org/documents/paddy-doctor-visual-image-dataset-automated-paddy-disease-classification-and-benchmarking)**
 
 ### Paddy disease images
