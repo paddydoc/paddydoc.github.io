@@ -23,6 +23,6 @@ A subset of this dataset (10,407 annotated images) has been used in the Kaggle c
 
 ### IEEE DataPort 
 The Paddy Doctor dataset submitted in an IEEE DataPort - 
-**[https://ieee-dataport.org/documents/paddy-doctor-visual-image-dataset-automated-paddy-disease-classification-and-benchmarking](https://ieee-dataport.org/documents/paddy-doctor-visual-image-dataset-automated-paddy-disease-classification-and-benchmarking)**
+**[https://ieee-dataport.org/documents/paddy-doctor-visual-image-dataset-automated-paddy-disease-classification-and-benchmarking](https://ieee-dataport.org/documents/paddy-doctor-visual-image-dataset-automated-paddy-disease-classification-and-benchmarking/)**
 
 Note: The final and complete dataset will be released after compeltition of the competition (by end of Auguest 2022).
