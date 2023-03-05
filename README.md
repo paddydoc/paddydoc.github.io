@@ -60,9 +60,12 @@ The Paddy Doctor dataset submitted in an IEEE DataPort -
 |Resnet34|97.7|
 
 ### Paddy pest images
+
+#### RGB Images
 ![RGB Pests](./assets/img/Pest_RGB_1.png)
 
-![IR Pests](./assets/img/irpests.png)
+#### IR Images
+![IR Pests](./assets/img/IRPest-RGB.png)
 
 |Pests name | No. of images |
 | :--- | ---: |
